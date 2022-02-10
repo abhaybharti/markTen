@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 50vw;
+  background-color: rgb(208, 221, 208);
+  align-items: center;
+}
+
+th,
+td {
+  border: 1px solid black;
+  width: 4vw;
+}
+
+.textfield {
+  width: 200px;
+  font-style: bold;
+}
+
+.danger {
+  color: red;
+}
